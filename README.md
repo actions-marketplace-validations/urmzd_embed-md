@@ -15,6 +15,12 @@
   <a href="https://github.com/urmzd/embed-src/actions/workflows/ci.yml"><img src="https://github.com/urmzd/embed-src/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
 </p>
 
+## Showcase
+
+<p align="center">
+  <img src="showcase/embed-dry-run.png" alt="embed-src dry run demo" width="600">
+</p>
+
 ## Syntax
 
 Place opening and closing markers in your file using whatever comment style is appropriate:

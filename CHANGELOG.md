@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.4.1 (2026-03-30)
+
+### Bug Fixes
+
+- download binary from floating tag instead of latest release ([e8a280b](https://github.com/urmzd/embed-src/commit/e8a280b7e5e3874f9d38e7339c1fa8dd63850b32))
+
+### Miscellaneous
+
+- bump Cargo.lock to v3.4.0 and add crates.io badge ([9926739](https://github.com/urmzd/embed-src/commit/9926739914d15ecf81a5ce664618d0a196af9cba))
+
+[Full Changelog](https://github.com/urmzd/embed-src/compare/v3.4.0...v3.4.1)
+
+
 ## 3.4.0 (2026-03-29)
 
 ### Features
